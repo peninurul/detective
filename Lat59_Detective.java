@@ -4,8 +4,8 @@
  */
 
 /**
- * Nama : Mufida Anggradita
- * NIM : 22166010
+ * Nama : Peni Nurul Fauzah
+ * NIM : 22166023
  * Kelas : Sistem Informasi
  * Semester 3
  * Mata Kuliah : Pemrogaman Berorientasi Objek 1
